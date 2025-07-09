@@ -22,7 +22,7 @@ function loadTheFunction() {
 	function clickedButton() {
 		buttonBox.style.width = "600px";
 		buttonBox.style.backgroundColor = "orange";
-		buttonBox.innerHTML = "SURPRISE!!"
+		buttonBox.innerHTML = "<h2>SURPRISE!!</h2>";
 	}
 
 	
